@@ -1,3 +1,6 @@
 ECHO est  activado.
 "1234" 
+<<<<<<< HEAD
 "miauuumiai8amiasmiasnkjsdanfkjasdkjfasdkj"
+=======
+>>>>>>> c925ce7ba7a8658699571d70ccbc07ea660be6a7
